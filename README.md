@@ -170,6 +170,7 @@ That's it - no database server to install or manage.
 ```bash
 python -m venv .venv (.venv = any name you want to name the environment)
 source .venv/bin/activate (.venv = any name you named the environment)
+Windows users;- venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
